@@ -1,0 +1,10 @@
+C:\Users\zyadr\source\repos\task_3\task_3\bin\Debug\task_3.exe.config
+C:\Users\zyadr\source\repos\task_3\task_3\bin\Debug\task_3.exe
+C:\Users\zyadr\source\repos\task_3\task_3\bin\Debug\task_3.pdb
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.csproj.AssemblyReference.cache
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.Form1.resources
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.Properties.Resources.resources
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.csproj.GenerateResource.cache
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.csproj.CoreCompileInputs.cache
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.exe
+C:\Users\zyadr\source\repos\task_3\task_3\obj\Debug\task_3.pdb

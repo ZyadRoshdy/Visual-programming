@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "task_2", "task_2\task_2.csproj", "{D17DE147-C372-4766-8F55-FA267EA19884}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{3EE2E802-55BD-43FE-99CB-E5D8C944BBA3}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\..\OneDrive\Desktop\Wellpaper\bmw-m3-angel-eyes-black-background-5k-3840x2160-896.jpg = ..\..\..\OneDrive\Desktop\Wellpaper\bmw-m3-angel-eyes-black-background-5k-3840x2160-896.jpg
+		..\..\..\OneDrive\Desktop\Wellpaper\cillian-murphy-3840x2160-14929.jpg = ..\..\..\OneDrive\Desktop\Wellpaper\cillian-murphy-3840x2160-14929.jpg
+		..\..\..\OneDrive\Desktop\Wellpaper\marvels-spider-man-playstation-4-playstation-5-pc-games-3840x2160-8937.jpg = ..\..\..\OneDrive\Desktop\Wellpaper\marvels-spider-man-playstation-4-playstation-5-pc-games-3840x2160-8937.jpg
+		..\..\..\OneDrive\Desktop\Wellpaper\oppenheimer-cillian-3840x2160-12826.jpg = ..\..\..\OneDrive\Desktop\Wellpaper\oppenheimer-cillian-3840x2160-12826.jpg
+		..\..\..\OneDrive\Desktop\Wellpaper\the-punisher-marvel-comics-skull-black-background-monochrome-3840x2160-2802.png = ..\..\..\OneDrive\Desktop\Wellpaper\the-punisher-marvel-comics-skull-black-background-monochrome-3840x2160-2802.png
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D17DE147-C372-4766-8F55-FA267EA19884}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D17DE147-C372-4766-8F55-FA267EA19884}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D17DE147-C372-4766-8F55-FA267EA19884}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D17DE147-C372-4766-8F55-FA267EA19884}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE11A309-8F13-4CAA-B905-A265774BC7C4}
+	EndGlobalSection
+EndGlobal

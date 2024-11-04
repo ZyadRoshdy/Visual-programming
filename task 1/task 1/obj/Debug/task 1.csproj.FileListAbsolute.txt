@@ -1,0 +1,10 @@
+C:\Users\zyadr\source\repos\task 1\task 1\bin\Debug\task 1.exe.config
+C:\Users\zyadr\source\repos\task 1\task 1\bin\Debug\task 1.exe
+C:\Users\zyadr\source\repos\task 1\task 1\bin\Debug\task 1.pdb
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task 1.csproj.AssemblyReference.cache
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task_1.Properties.Resources.resources
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task 1.csproj.GenerateResource.cache
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task 1.csproj.CoreCompileInputs.cache
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task 1.exe
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task 1.pdb
+C:\Users\zyadr\source\repos\task 1\task 1\obj\Debug\task_1.Calculator.resources
